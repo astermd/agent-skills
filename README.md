@@ -93,7 +93,7 @@ skills/
 
 ## License
 
-[MIT](LICENSE) © 2026 AsterMD
+[MIT](LICENSE) © 2026 CodeClouds™ DBA AsterMD
 
 ## Trademarks
 
