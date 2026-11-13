@@ -1,6 +1,10 @@
+<p align="center">
+  <a href="https://www.astermd.com/"><img src="https://raw.githubusercontent.com/astermd/agent-skills/main/.github/assets/astermd-logo.svg" alt="AsterMD" height="48"></a>
+</p>
+
 # AsterMD Agent Skills
 
-Reusable [Agent Skills](https://agentskills.io) for working with the [AsterMD](https://www.astermd.com/) EMR platform. Each skill is a folder with a `SKILL.md` (instructions + frontmatter), so it works with any agent that supports the format — Claude Code, Codex, Cursor, Gemini CLI, and others.
+Reusable [Agent Skills](https://agentskills.io) for working with the [AsterMD](https://www.astermd.com/) platform, a white-label, API-first telehealth platform. Intended for AsterMD customers and partners building with the API. Each skill is a folder with a `SKILL.md` (instructions + frontmatter), so it works with any agent that supports the format — Claude Code, Codex, Cursor, Gemini CLI, and others.
 
 ## Skills
 
@@ -89,4 +93,13 @@ skills/
 
 ## License
 
-[MIT](LICENSE) © CodeClouds™ DBA [AsterMD](https://www.astermd.com/)
+[MIT](LICENSE) © 2026 CodeClouds™ DBA AsterMD
+
+## Trademarks
+
+The AsterMD name and logo are proprietary to AsterMD. The MIT license covers the source code in this repository only and does not grant rights to use the AsterMD brand.
+
+## About AsterMD
+
+AsterMD is a telehealth platform that helps healthcare brands launch and grow virtual care services. It includes intake builders, patient portals and your choice of providers and pharmacy, with no vendor lock-in.
+[astermd.com](https://www.astermd.com/) · hello@astermd.com
